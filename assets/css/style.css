@@ -1,0 +1,34 @@
+.jumbotron{
+    background-color: #ff0000;
+    border: 4px solid silver;
+}
+
+.card-header {
+    background-color:#ff0000;
+    border: 2px solid silver;
+}
+
+.row {
+    margin-bottom: 10px;
+}
+
+img {
+    margin-bottom: 20px;
+}
+
+ #addinfo {
+    border: 0;
+    padding: 0;
+    background-color: #ffffff;
+    margin-bottom: 10px;
+    font-style: italic;
+    text-decoration: underline;
+}
+
+
+h1, h5 {
+    color: white;
+}
+#add {
+    color: black;
+}
